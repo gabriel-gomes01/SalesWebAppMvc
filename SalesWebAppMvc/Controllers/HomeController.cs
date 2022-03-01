@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using SalesWebAppMvc.Models;
+using SalesWebAppMvc.Models.ViewsModels;
 using System;
 using System.Collections.Generic;
 using System.Diagnostics;
@@ -17,7 +18,8 @@ namespace SalesWebAppMvc.Controllers
 
         public IActionResult About()
         {
-            ViewData["Message"] = "Your application description page.";
+            ViewData["Message"] = "This site will be to manege Sales";
+            ViewData["Dev"] = "Gabriel Gomes";
 
             return View();
         }
