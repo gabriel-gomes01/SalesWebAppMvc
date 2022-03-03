@@ -17,6 +17,11 @@ D:\Programing\Projetos_C#\Estudo\Udemy\SalesWebAppMvc\SalesWebAppMvc\obj\Debug\n
 D:\Programing\Projetos_C#\Estudo\Udemy\SalesWebAppMvc\SalesWebAppMvc\obj\Debug\netcoreapp2.1\SalesWebAppMvc.TagHelpers.input.cache
 D:\Programing\Projetos_C#\Estudo\Udemy\SalesWebAppMvc\SalesWebAppMvc\obj\Debug\netcoreapp2.1\SalesWebAppMvc.TagHelpers.output.cache
 D:\Programing\Projetos_C#\Estudo\Udemy\SalesWebAppMvc\SalesWebAppMvc\obj\Debug\netcoreapp2.1\SalesWebAppMvc.RazorCoreGenerate.cache
+D:\Programing\Projetos_C#\Estudo\Udemy\SalesWebAppMvc\SalesWebAppMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Create.cshtml.g.cs
+D:\Programing\Projetos_C#\Estudo\Udemy\SalesWebAppMvc\SalesWebAppMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Delete.cshtml.g.cs
+D:\Programing\Projetos_C#\Estudo\Udemy\SalesWebAppMvc\SalesWebAppMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Details.cshtml.g.cs
+D:\Programing\Projetos_C#\Estudo\Udemy\SalesWebAppMvc\SalesWebAppMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Edit.cshtml.g.cs
+D:\Programing\Projetos_C#\Estudo\Udemy\SalesWebAppMvc\SalesWebAppMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.cshtml.g.cs
 D:\Programing\Projetos_C#\Estudo\Udemy\SalesWebAppMvc\SalesWebAppMvc\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
 D:\Programing\Projetos_C#\Estudo\Udemy\SalesWebAppMvc\SalesWebAppMvc\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
 D:\Programing\Projetos_C#\Estudo\Udemy\SalesWebAppMvc\SalesWebAppMvc\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
@@ -34,8 +39,3 @@ D:\Programing\Projetos_C#\Estudo\Udemy\SalesWebAppMvc\SalesWebAppMvc\obj\Debug\n
 D:\Programing\Projetos_C#\Estudo\Udemy\SalesWebAppMvc\SalesWebAppMvc\obj\Debug\netcoreapp2.1\SalesWebAppMvc.pdb
 D:\Programing\Projetos_C#\Estudo\Udemy\SalesWebAppMvc\SalesWebAppMvc\obj\Debug\netcoreapp2.1\SalesWebAppMvc.genruntimeconfig.cache
 D:\Programing\Projetos_C#\Estudo\Udemy\SalesWebAppMvc\SalesWebAppMvc\obj\Debug\netcoreapp2.1\SalesWebAppMvc.csproj.CopyComplete
-D:\Programing\Projetos_C#\Estudo\Udemy\SalesWebAppMvc\SalesWebAppMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Create.cshtml.g.cs
-D:\Programing\Projetos_C#\Estudo\Udemy\SalesWebAppMvc\SalesWebAppMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Delete.cshtml.g.cs
-D:\Programing\Projetos_C#\Estudo\Udemy\SalesWebAppMvc\SalesWebAppMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Details.cshtml.g.cs
-D:\Programing\Projetos_C#\Estudo\Udemy\SalesWebAppMvc\SalesWebAppMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Edit.cshtml.g.cs
-D:\Programing\Projetos_C#\Estudo\Udemy\SalesWebAppMvc\SalesWebAppMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.cshtml.g.cs
