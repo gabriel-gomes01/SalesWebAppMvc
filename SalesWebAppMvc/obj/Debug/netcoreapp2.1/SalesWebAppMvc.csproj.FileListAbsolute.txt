@@ -40,3 +40,4 @@ D:\Programing\Projetos_C#\Estudo\Udemy\SalesWebAppMvc\SalesWebAppMvc\obj\Debug\n
 D:\Programing\Projetos_C#\Estudo\Udemy\SalesWebAppMvc\SalesWebAppMvc\obj\Debug\netcoreapp2.1\SalesWebAppMvc.genruntimeconfig.cache
 D:\Programing\Projetos_C#\Estudo\Udemy\SalesWebAppMvc\SalesWebAppMvc\obj\Debug\netcoreapp2.1\SalesWebAppMvc.csproj.CopyComplete
 D:\Programing\Projetos_C#\Estudo\Udemy\SalesWebAppMvc\SalesWebAppMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Index.cshtml.g.cs
+D:\Programing\Projetos_C#\Estudo\Udemy\SalesWebAppMvc\SalesWebAppMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Create.cshtml.g.cs
