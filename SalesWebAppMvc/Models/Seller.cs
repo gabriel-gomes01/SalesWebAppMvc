@@ -13,6 +13,7 @@ namespace SalesWebAppMvc.Models
         public DateTime BirthDate { get; set; }
         public string BaseSalary { get; set; } //MUDAR O TIPO DO BASESALARY PARA DOUBLE, ELE ESTÁ COMO STRING
         public Department Department { get; set; }
+        public int DepartmentId { get; set; }
         public ICollection<SalesRecord> Sales { get; set; } = new List<SalesRecord>(); // LISTA DE RESGISTRO VENDAS
 
         public Seller() { }

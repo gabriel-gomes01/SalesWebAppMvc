@@ -7,7 +7,6 @@ D:\Programing\Projetos_C#\Estudo\Udemy\SalesWebAppMvc\SalesWebAppMvc\bin\Debug\n
 D:\Programing\Projetos_C#\Estudo\Udemy\SalesWebAppMvc\SalesWebAppMvc\bin\Debug\netcoreapp2.1\SalesWebAppMvc.pdb
 D:\Programing\Projetos_C#\Estudo\Udemy\SalesWebAppMvc\SalesWebAppMvc\bin\Debug\netcoreapp2.1\SalesWebAppMvc.Views.dll
 D:\Programing\Projetos_C#\Estudo\Udemy\SalesWebAppMvc\SalesWebAppMvc\bin\Debug\netcoreapp2.1\SalesWebAppMvc.Views.pdb
-D:\Programing\Projetos_C#\Estudo\Udemy\SalesWebAppMvc\SalesWebAppMvc\obj\Debug\netcoreapp2.1\SalesWebAppMvc.csproj.AssemblyReference.cache
 D:\Programing\Projetos_C#\Estudo\Udemy\SalesWebAppMvc\SalesWebAppMvc\obj\Debug\netcoreapp2.1\SalesWebAppMvc.GeneratedMSBuildEditorConfig.editorconfig
 D:\Programing\Projetos_C#\Estudo\Udemy\SalesWebAppMvc\SalesWebAppMvc\obj\Debug\netcoreapp2.1\SalesWebAppMvc.AssemblyInfoInputs.cache
 D:\Programing\Projetos_C#\Estudo\Udemy\SalesWebAppMvc\SalesWebAppMvc\obj\Debug\netcoreapp2.1\SalesWebAppMvc.AssemblyInfo.cs
@@ -26,6 +25,8 @@ D:\Programing\Projetos_C#\Estudo\Udemy\SalesWebAppMvc\SalesWebAppMvc\obj\Debug\n
 D:\Programing\Projetos_C#\Estudo\Udemy\SalesWebAppMvc\SalesWebAppMvc\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
 D:\Programing\Projetos_C#\Estudo\Udemy\SalesWebAppMvc\SalesWebAppMvc\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
 D:\Programing\Projetos_C#\Estudo\Udemy\SalesWebAppMvc\SalesWebAppMvc\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Programing\Projetos_C#\Estudo\Udemy\SalesWebAppMvc\SalesWebAppMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Create.cshtml.g.cs
+D:\Programing\Projetos_C#\Estudo\Udemy\SalesWebAppMvc\SalesWebAppMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Index.cshtml.g.cs
 D:\Programing\Projetos_C#\Estudo\Udemy\SalesWebAppMvc\SalesWebAppMvc\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
 D:\Programing\Projetos_C#\Estudo\Udemy\SalesWebAppMvc\SalesWebAppMvc\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
 D:\Programing\Projetos_C#\Estudo\Udemy\SalesWebAppMvc\SalesWebAppMvc\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
@@ -39,5 +40,3 @@ D:\Programing\Projetos_C#\Estudo\Udemy\SalesWebAppMvc\SalesWebAppMvc\obj\Debug\n
 D:\Programing\Projetos_C#\Estudo\Udemy\SalesWebAppMvc\SalesWebAppMvc\obj\Debug\netcoreapp2.1\SalesWebAppMvc.pdb
 D:\Programing\Projetos_C#\Estudo\Udemy\SalesWebAppMvc\SalesWebAppMvc\obj\Debug\netcoreapp2.1\SalesWebAppMvc.genruntimeconfig.cache
 D:\Programing\Projetos_C#\Estudo\Udemy\SalesWebAppMvc\SalesWebAppMvc\obj\Debug\netcoreapp2.1\SalesWebAppMvc.csproj.CopyComplete
-D:\Programing\Projetos_C#\Estudo\Udemy\SalesWebAppMvc\SalesWebAppMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Index.cshtml.g.cs
-D:\Programing\Projetos_C#\Estudo\Udemy\SalesWebAppMvc\SalesWebAppMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Create.cshtml.g.cs
