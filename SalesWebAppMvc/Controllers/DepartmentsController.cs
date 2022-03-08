@@ -10,12 +10,14 @@ using SalesWebAppMvc.Models;
 
 namespace SalesWebAppMvc.Controllers
 {
+    // PAGINA RESPONSAVEL POR ENVIAR DADOS DOS DEPARTAMENTOS
     public class DepartmentsController : Controller
     {
         private readonly SalesWebAppMvcContext _context;
 
         public DepartmentsController(SalesWebAppMvcContext context)
         {
+            //LIGAÇÃO DAS PAGINAS
             _context = context;
         }
 

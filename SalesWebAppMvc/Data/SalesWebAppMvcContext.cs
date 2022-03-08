@@ -7,6 +7,7 @@ using SalesWebAppMvc.Models;
 
 namespace SalesWebAppMvc.Data
 {
+    // LIGAÇÃO DO BANCO DE DADOS COM A PARTE DOS MODELS
     public class SalesWebAppMvcContext : DbContext
     {
         public SalesWebAppMvcContext (DbContextOptions<SalesWebAppMvcContext> options)

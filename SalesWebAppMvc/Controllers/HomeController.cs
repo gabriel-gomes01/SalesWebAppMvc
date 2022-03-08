@@ -9,26 +9,34 @@ using System.Threading.Tasks;
 
 namespace SalesWebAppMvc.Controllers
 {
+    // PAGINA RESPONSAVEL POR ENVIAR DADOS DA PAGINA PRINCIPAL
     public class HomeController : Controller
     {
         public IActionResult Index()
         {
+            //ENVIO DA VIEW, MOSTRA A VIEW
             return View();
         }
 
         public IActionResult About()
         {
+            //ENVIO DA PAGINA ABOUT
+
+            //DICIONARIOS RESPONSAVEIS POR TEXTOS DE MENSSAGEM E DEV
             ViewData["Message"] = "This site will be to manege Sales";
             ViewData["Dev"] = "Gabriel Gomes";
 
-            return View();
+            return View(); // ENVIA A PAGINA
         }
 
         public IActionResult Contact()
         {
+            //ENVIO DA PAGINA CONTACT
+
+            //DICIONARIOS RESPONSAVEIS POR TEXTO DE MENSSAGEM
             ViewData["Message"] = "Your contact page.";
 
-            return View();
+            return View(); // MOSTRA NA TELA
         }
 
         public IActionResult Privacy()

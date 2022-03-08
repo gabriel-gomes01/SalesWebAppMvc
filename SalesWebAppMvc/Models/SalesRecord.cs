@@ -5,6 +5,7 @@ namespace SalesWebAppMvc.Models
 {
     public class SalesRecord
     {
+        // REGISTRO DE VENDAS
         public int Id { get; set; }
         public DateTime Date { get; set; }
         public double Amount { get; set; }
