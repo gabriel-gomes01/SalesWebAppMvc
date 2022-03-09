@@ -40,3 +40,5 @@ D:\Programing\Projetos_C#\Estudo\Udemy\SalesWebAppMvc\SalesWebAppMvc\obj\Debug\n
 D:\Programing\Projetos_C#\Estudo\Udemy\SalesWebAppMvc\SalesWebAppMvc\obj\Debug\netcoreapp2.1\SalesWebAppMvc.pdb
 D:\Programing\Projetos_C#\Estudo\Udemy\SalesWebAppMvc\SalesWebAppMvc\obj\Debug\netcoreapp2.1\SalesWebAppMvc.genruntimeconfig.cache
 D:\Programing\Projetos_C#\Estudo\Udemy\SalesWebAppMvc\SalesWebAppMvc\obj\Debug\netcoreapp2.1\SalesWebAppMvc.csproj.CopyComplete
+D:\Programing\Projetos_C#\Estudo\Udemy\SalesWebAppMvc\SalesWebAppMvc\obj\Debug\netcoreapp2.1\SalesWebAppMvc.csproj.AssemblyReference.cache
+D:\Programing\Projetos_C#\Estudo\Udemy\SalesWebAppMvc\SalesWebAppMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Delete.cshtml.g.cs
